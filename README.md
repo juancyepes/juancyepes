@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @juancyepes
 - 👀 I’m interested in Technical Product Ownership
-- 📫 Reach me on juan.yepes@nexgen-soluciones.com
+- 📫 Reach me on juan.yepes.correa@gmail.com
 
 <!---
 juancyepes/juancyepes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
